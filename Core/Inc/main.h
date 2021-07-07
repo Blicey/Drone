@@ -18,7 +18,7 @@
   ******************************************************************************
   */
 /* USER CODE END Header */
-#define tests
+#define testss
 /* Define to prevent recursive inclusion -------------------------------------*/
 #ifndef __MAIN_H
 #define __MAIN_H
