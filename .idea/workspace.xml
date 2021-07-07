@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afc206c7-2dd9-4c13-873a-85e234dd5735" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Drivers/BMP280/bmp280.c" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/BMP280/bmp280.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/BMP280/bmp280.h" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/BMP280/bmp280.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="clangTidyViaClangd" value="false" />
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Drivers/BMP280" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1u6J5yHw5dYy5XjS5dSfNk6PRvB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\workspace\stm32\test_freeRTOS\Drivers" />
+      <recent name="D:\Documents\workspace\stm32\test_freeRTOS\Drivers\Hardware\inc" />
+      <recent name="D:\Documents\workspace\stm32\test_freeRTOS\Drivers\Hardware\src" />
+      <recent name="D:\Documents\workspace\stm32\test_freeRTOS\Drivers\MPU6050\Src" />
+      <recent name="D:\Documents\workspace\stm32\test_freeRTOS\Control\inc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\workspace\stm32\test_freeRTOS\App\inc" />
+      <recent name="D:\Documents\workspace\stm32\test_freeRTOS\App\src" />
+      <recent name="D:\Documents\workspace\stm32\test_freeRTOS\Drivers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afc206c7-2dd9-4c13-873a-85e234dd5735" name="Default Changelist" comment="" />
+      <created>1623979925546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623979925546</updated>
+      <workItem from="1623979936359" duration="1291000" />
+      <workItem from="1624174949160" duration="5371000" />
+      <workItem from="1624377289068" duration="50000" />
+      <workItem from="1624454572446" duration="1635000" />
+      <workItem from="1624458173867" duration="4627000" />
+      <workItem from="1624532992490" duration="51000" />
+      <workItem from="1624535276393" duration="2762000" />
+      <workItem from="1624538075859" duration="10637000" />
+      <workItem from="1624598047786" duration="1294000" />
+      <workItem from="1624614551791" duration="674000" />
+      <workItem from="1624628106906" duration="7160000" />
+      <workItem from="1624668248028" duration="6338000" />
+      <workItem from="1624674653945" duration="4415000" />
+      <workItem from="1624706876884" duration="5699000" />
+      <workItem from="1624712922461" duration="4188000" />
+      <workItem from="1624753948869" duration="3634000" />
+      <workItem from="1625063627455" duration="4185000" />
+      <workItem from="1625145492038" duration="5742000" />
+      <workItem from="1625290520674" duration="800000" />
+      <workItem from="1625363203307" duration="2723000" />
+      <workItem from="1625370686366" duration="197000" />
+      <workItem from="1625402176614" duration="8000" />
+      <workItem from="1625409419313" duration="309000" />
+      <workItem from="1625666816723" duration="29000" />
+      <workItem from="1625666888042" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Core/Src/freertos.c</url>
+          <line>209</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Control/src/IMUSO3.c</url>
+          <line>264</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="com.jetbrains.cidr.embedded.openocd.conf.type">
+        <watch expression="imu.accADC[0]" language="ObjectiveC" />
+        <watch expression="imu.accADC[1]" language="ObjectiveC" />
+        <watch expression="imu.accADC[2]" language="ObjectiveC" />
+        <watch expression="temp" language="ObjectiveC" />
+        <watch expression="dev-&gt;addr" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
